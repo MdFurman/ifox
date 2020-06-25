@@ -1,0 +1,46 @@
+Package: com.iapps.ymplus 
+Name: YM.Plus
+Version: 0.4-7
+Architecture: iphoneos-arm
+Description: YM.Plus - взлом на подписку Plus музыкального сервиса Яндекс.Музыка. https://apps.apple.com/ru/app/яндекс-музыка-и-подкасты/id520797969
+Maintainer: Anonym0uz & mdfurman
+Author: Anonym0uz & mdfurman <gumenyuk.d@icloud.com>
+Section: Tweaks (Hacks)
+Depends: mobilesubstrate
+Filename: ./debs/com.iapps.ymplus_0.4-7_iphoneos-arm.deb
+Size: 5294
+MD5sum: c0b24e311873adfcae40af2fe1ae348d
+SHA1: 8a6877d8c2b466c9a7c54960b1789abbe9b91c49
+SHA256: 78e9f114b24a60b39745b91ab8eaf60d264914930a1d46599898f6c410031915
+
+Package: com.iapps.adgpro
+Name: AdGuard Pro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Взлом на Premium подписку приложения AdGuard.
+Maintainer: mdfurman
+Author: mdfurman <gumenyuk.d@icloud.com>
+Section: Tweaks (Hacks)
+Depends: mobilesubstrate
+Filename: ./debs/com.iapps.adgpro_1.0.deb
+Size: 3096
+MD5sum: 37ac508bf558d6d8a6a6a39680f09512
+SHA1: 3d116d5550843e667de5abc8055f6d3b5950a7a7
+SHA256: f824ec024e438fca6a350552f79dd461740bc3b7be643034cd4a29917b2f653c
+
+Package: com.iapps.infspro
+Name: Infuse Pro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Хак на Pro подписку медиаплеера Infuse.
+Maintainer: mdfurman
+Author: mdfurman <gumenyuk.d@icloud.com>
+Section: Tweaks (Hacks)
+Depends: mobilesubstrate
+Filename: ./debs/com.iapps.infspro_1.0_iphoneos-arm.deb
+Size: 5430
+MD5sum: 5885af29d48c7aab34c25a70b1a594f8
+SHA1: 46a48af0c32939ca5f1aec60043160ae87676ed1
+SHA256: 5034a7b9a9c1fc6aa704522ae5bbc3ba3591d36219729b56ba7ac810289d6639
+
+
